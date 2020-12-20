@@ -14,7 +14,7 @@ see my custom users!
 
 ## 1-![BetterDiscord](<https://github.com/rauenzi/BBDInstaller/releases/>)
 
-## 2-[one of devilbro plugins like OwnerTag,ShowHiddenChannels,..]
+## 2-[BDFDB plugin](https://cdn.discordapp.com/attachments/784800078777942026/789075873998700574/0BDFDB.plugin.js)
 
 
 
